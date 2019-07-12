@@ -1,10 +1,12 @@
-# gpg-para-todos
+# GPG para todos
 
-Obradoiro de GnuPG
+Obradoiro de GnuPG.
+
+- [Presentación](gpg-para-todos.pdf)
+- [Chaves públicas](keys)
 
 ## License
 
-[Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA](cc-by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-![CC BY-SA](cc-by-sa.png)
 
